@@ -1,7 +1,3 @@
-<script>
-  import "$lib/styles/style.css";
-</script>
-
 <header>
   <a href="/">Home</a>
 
